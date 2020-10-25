@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çoklu Dil Desteği</string>
+
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="email">Email</string>
+    <string name="password">Parola</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Hesabınız yok mu? Kayıt ol.</string>
+    <string name="changeLang">Dil seçiniz</string>
+</resources>
